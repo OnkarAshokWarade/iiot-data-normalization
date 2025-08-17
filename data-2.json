@@ -1,0 +1,14 @@
+[
+  {
+    "deviceId": "C300",
+    "timestamp": 1692284010000,
+    "metric": "temperature",
+    "value": 40.2
+  },
+  {
+    "deviceId": "D400",
+    "timestamp": 1692284070000,
+    "metric": "pressure",
+    "value": 101.3
+  }
+]

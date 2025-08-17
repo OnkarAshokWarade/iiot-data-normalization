@@ -1,0 +1,14 @@
+[
+  {
+    "device_id": "A100",
+    "timestamp": "2023-08-17T14:52:00Z",
+    "metric": "temperature",
+    "value": "36.5"
+  },
+  {
+    "device_id": "B200",
+    "timestamp": "2023-08-17T14:53:30Z",
+    "metric": "humidity",
+    "value": "82"
+  }
+]
